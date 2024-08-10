@@ -18,6 +18,8 @@ function same(arr1, arr2) {
   return true;
 }
 
+
+
 // const ans = same([2, 3, 6], [9, 4, 36]); // true
 const ans = same([2, 3, 6], [9, 4, 6]) // false
 
