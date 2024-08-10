@@ -16,6 +16,7 @@
 // }
 
 // // n*n = n2
+// time complexity O(n2)
 
 // console.log(same([2, 3, 6], [36, 9, 4]));
 
@@ -53,6 +54,7 @@ function same(arr1, arr2) {
 }
 
 // n + n + n = 3n = n 
+// time complexity O(n)
 
 console.log(same([2, 3, 6], [36, 9, 4]));
 
